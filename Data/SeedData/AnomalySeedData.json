@@ -1,0 +1,1002 @@
+[
+  {
+    "Confidence": 0.7417,
+    "Lng": 30.87120553,
+    "Lat": 30.01612465,
+    "CreatedAt": "2017-03-28",
+    "UpdatedAt": "2017-02-24",
+    "Frame_url": "Images/17.png",
+    "RoadId": 11,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.6498,
+    "Lng": 30.01111008,
+    "Lat": 30.66015805,
+    "CreatedAt": "2017-05-11",
+    "UpdatedAt": "2017-03-06",
+    "Frame_url": "Images/19.png",
+    "RoadId": 7,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.1302,
+    "Lng": 30.46933931,
+    "Lat": 30.81546766,
+    "CreatedAt": "2017-02-15",
+    "UpdatedAt": "2017-02-09",
+    "Frame_url": "Images/4.png",
+    "RoadId": 22,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.0078,
+    "Lng": 30.06797781,
+    "Lat": 30.0533799,
+    "CreatedAt": "2017-06-10",
+    "UpdatedAt": "2017-06-23",
+    "Frame_url": "Images/2.png",
+    "RoadId": 20,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.2944,
+    "Lng": 30.00678704,
+    "Lat": 30.58897887,
+    "CreatedAt": "2017-04-27",
+    "UpdatedAt": "2017-06-08",
+    "Frame_url": "Images/14.png",
+    "RoadId": 24,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.3314,
+    "Lng": 30.23901923,
+    "Lat": 30.69908141,
+    "CreatedAt": "2017-06-14",
+    "UpdatedAt": "2017-03-29",
+    "Frame_url": "Images/1.png",
+    "RoadId": 20,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.9606,
+    "Lng": 30.04672014,
+    "Lat": 30.61053424,
+    "CreatedAt": "2017-03-31",
+    "UpdatedAt": "2017-04-08",
+    "Frame_url": "Images/2.png",
+    "RoadId": 15,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.815,
+    "Lng": 30.59620434,
+    "Lat": 30.35337651,
+    "CreatedAt": "2017-03-21",
+    "UpdatedAt": "2017-02-13",
+    "Frame_url": "Images/9.png",
+    "RoadId": 15,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.0024,
+    "Lng": 30.7080065,
+    "Lat": 30.59162988,
+    "CreatedAt": "2017-05-16",
+    "UpdatedAt": "2017-01-27",
+    "Frame_url": "Images/9.png",
+    "RoadId": 5,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.246,
+    "Lng": 30.80758532,
+    "Lat": 30.06171822,
+    "CreatedAt": "2017-02-27",
+    "UpdatedAt": "2017-01-05",
+    "Frame_url": "Images/6.png",
+    "RoadId": 10,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.3681,
+    "Lng": 30.6585995,
+    "Lat": 30.55816739,
+    "CreatedAt": "2017-05-14",
+    "UpdatedAt": "2017-03-15",
+    "Frame_url": "Images/1.png",
+    "RoadId": 14,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.8471,
+    "Lng": 30.38815564,
+    "Lat": 30.22400623,
+    "CreatedAt": "2017-06-26",
+    "UpdatedAt": "2017-02-27",
+    "Frame_url": "Images/10.png",
+    "RoadId": 5,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.9612,
+    "Lng": 30.45185692,
+    "Lat": 30.78450064,
+    "CreatedAt": "2017-02-26",
+    "UpdatedAt": "2017-03-16",
+    "Frame_url": "Images/7.png",
+    "RoadId": 1,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.001,
+    "Lng": 30.38332723,
+    "Lat": 30.18901066,
+    "CreatedAt": "2017-07-21",
+    "UpdatedAt": "2017-04-21",
+    "Frame_url": "Images/4.png",
+    "RoadId": 13,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.5035,
+    "Lng": 30.75695482,
+    "Lat": 30.41260566,
+    "CreatedAt": "2017-08-07",
+    "UpdatedAt": "2017-03-29",
+    "Frame_url": "Images/1.png",
+    "RoadId": 15,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.4168,
+    "Lng": 30.92110732,
+    "Lat": 30.93301934,
+    "CreatedAt": "2017-07-01",
+    "UpdatedAt": "2017-01-16",
+    "Frame_url": "Images/8.png",
+    "RoadId": 15,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.9765,
+    "Lng": 30.17896863,
+    "Lat": 30.8244648,
+    "CreatedAt": "2017-04-14",
+    "UpdatedAt": "2017-02-03",
+    "Frame_url": "Images/14.png",
+    "RoadId": 23,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.5366,
+    "Lng": 30.13477224,
+    "Lat": 30.40996155,
+    "CreatedAt": "2017-02-19",
+    "UpdatedAt": "2017-01-14",
+    "Frame_url": "Images/9.png",
+    "RoadId": 22,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.5682,
+    "Lng": 30.18154007,
+    "Lat": 30.34346448,
+    "CreatedAt": "2017-01-27",
+    "UpdatedAt": "2017-02-12",
+    "Frame_url": "Images/11.png",
+    "RoadId": 6,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.0891,
+    "Lng": 30.91937504,
+    "Lat": 30.21962878,
+    "CreatedAt": "2017-04-03",
+    "UpdatedAt": "2017-02-12",
+    "Frame_url": "Images/10.png",
+    "RoadId": 1,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.6801,
+    "Lng": 30.99917053,
+    "Lat": 30.17087513,
+    "CreatedAt": "2017-04-01",
+    "UpdatedAt": "2017-03-03",
+    "Frame_url": "Images/3.png",
+    "RoadId": 21,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.5154,
+    "Lng": 30.43585207,
+    "Lat": 30.08878838,
+    "CreatedAt": "2017-04-11",
+    "UpdatedAt": "2017-06-09",
+    "Frame_url": "Images/10.png",
+    "RoadId": 22,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.174,
+    "Lng": 30.11593193,
+    "Lat": 30.79112256,
+    "CreatedAt": "2017-06-08",
+    "UpdatedAt": "2017-05-23",
+    "Frame_url": "Images/8.png",
+    "RoadId": 14,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.9354,
+    "Lng": 30.60449709,
+    "Lat": 30.68288754,
+    "CreatedAt": "2017-08-25",
+    "UpdatedAt": "2017-06-26",
+    "Frame_url": "Images/9.png",
+    "RoadId": 26,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.8105,
+    "Lng": 30.82471145,
+    "Lat": 30.3155661,
+    "CreatedAt": "2017-01-16",
+    "UpdatedAt": "2017-02-08",
+    "Frame_url": "Images/14.png",
+    "RoadId": 22,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.1516,
+    "Lng": 30.50187385,
+    "Lat": 30.47529231,
+    "CreatedAt": "2017-05-24",
+    "UpdatedAt": "2017-08-22",
+    "Frame_url": "Images/4.png",
+    "RoadId": 22,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.5163,
+    "Lng": 30.7828668,
+    "Lat": 30.60571681,
+    "CreatedAt": "2017-06-25",
+    "UpdatedAt": "2017-04-06",
+    "Frame_url": "Images/5.png",
+    "RoadId": 21,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.3883,
+    "Lng": 30.41469653,
+    "Lat": 30.78846464,
+    "CreatedAt": "2017-01-12",
+    "UpdatedAt": "2017-01-17",
+    "Frame_url": "Images/13.png",
+    "RoadId": 14,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.7028,
+    "Lng": 30.86722837,
+    "Lat": 30.30640198,
+    "CreatedAt": "2017-03-09",
+    "UpdatedAt": "2017-06-10",
+    "Frame_url": "Images/19.png",
+    "RoadId": 12,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.3291,
+    "Lng": 30.69514067,
+    "Lat": 30.66836778,
+    "CreatedAt": "2017-06-16",
+    "UpdatedAt": "2017-05-20",
+    "Frame_url": "Images/17.png",
+    "RoadId": 4,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.4861,
+    "Lng": 30.11232752,
+    "Lat": 30.56210553,
+    "CreatedAt": "2017-04-17",
+    "UpdatedAt": "2017-07-16",
+    "Frame_url": "Images/4.png",
+    "RoadId": 27,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.0907,
+    "Lng": 30.3326412,
+    "Lat": 30.63545846,
+    "CreatedAt": "2017-03-09",
+    "UpdatedAt": "2017-04-29",
+    "Frame_url": "Images/7.png",
+    "RoadId": 24,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.0139,
+    "Lng": 30.10209413,
+    "Lat": 30.23400856,
+    "CreatedAt": "2017-08-29",
+    "UpdatedAt": "2017-01-07",
+    "Frame_url": "Images/15.png",
+    "RoadId": 6,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.4863,
+    "Lng": 30.29449463,
+    "Lat": 30.43294577,
+    "CreatedAt": "2017-04-18",
+    "UpdatedAt": "2017-01-05",
+    "Frame_url": "Images/11.png",
+    "RoadId": 19,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.0187,
+    "Lng": 30.29711402,
+    "Lat": 30.36694778,
+    "CreatedAt": "2017-07-14",
+    "UpdatedAt": "2017-02-19",
+    "Frame_url": "Images/8.png",
+    "RoadId": 22,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.056,
+    "Lng": 30.9096363,
+    "Lat": 30.08567308,
+    "CreatedAt": "2017-06-17",
+    "UpdatedAt": "2017-01-22",
+    "Frame_url": "Images/12.png",
+    "RoadId": 26,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.2931,
+    "Lng": 30.32465734,
+    "Lat": 30.83369789,
+    "CreatedAt": "2017-07-14",
+    "UpdatedAt": "2017-04-19",
+    "Frame_url": "Images/11.png",
+    "RoadId": 20,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.2879,
+    "Lng": 30.04593938,
+    "Lat": 30.84555359,
+    "CreatedAt": "2017-01-09",
+    "UpdatedAt": "2017-05-11",
+    "Frame_url": "Images/2.png",
+    "RoadId": 18,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.065,
+    "Lng": 30.73658969,
+    "Lat": 30.61629274,
+    "CreatedAt": "2017-03-24",
+    "UpdatedAt": "2017-01-12",
+    "Frame_url": "Images/13.png",
+    "RoadId": 20,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.8947,
+    "Lng": 30.35781444,
+    "Lat": 30.19793874,
+    "CreatedAt": "2017-04-30",
+    "UpdatedAt": "2017-06-24",
+    "Frame_url": "Images/2.png",
+    "RoadId": 22,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.6636,
+    "Lng": 30.19192353,
+    "Lat": 30.70131185,
+    "CreatedAt": "2017-01-21",
+    "UpdatedAt": "2017-03-04",
+    "Frame_url": "Images/13.png",
+    "RoadId": 9,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.2472,
+    "Lng": 30.26162853,
+    "Lat": 30.74718091,
+    "CreatedAt": "2017-06-30",
+    "UpdatedAt": "2017-07-23",
+    "Frame_url": "Images/3.png",
+    "RoadId": 18,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.8362,
+    "Lng": 30.1484654,
+    "Lat": 30.28577718,
+    "CreatedAt": "2017-07-04",
+    "UpdatedAt": "2017-06-11",
+    "Frame_url": "Images/13.png",
+    "RoadId": 18,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.8416,
+    "Lng": 30.06379851,
+    "Lat": 30.78812219,
+    "CreatedAt": "2017-02-03",
+    "UpdatedAt": "2017-04-22",
+    "Frame_url": "Images/18.png",
+    "RoadId": 3,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.1726,
+    "Lng": 30.01659855,
+    "Lat": 30.28137366,
+    "CreatedAt": "2017-02-22",
+    "UpdatedAt": "2017-04-11",
+    "Frame_url": "Images/3.png",
+    "RoadId": 4,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.0207,
+    "Lng": 30.85051018,
+    "Lat": 30.06724784,
+    "CreatedAt": "2017-01-03",
+    "UpdatedAt": "2017-08-22",
+    "Frame_url": "Images/16.png",
+    "RoadId": 20,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.1009,
+    "Lng": 30.59572634,
+    "Lat": 30.52666903,
+    "CreatedAt": "2017-04-19",
+    "UpdatedAt": "2017-04-27",
+    "Frame_url": "Images/3.png",
+    "RoadId": 3,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.9398,
+    "Lng": 30.77323149,
+    "Lat": 30.70791549,
+    "CreatedAt": "2017-04-11",
+    "UpdatedAt": "2017-08-16",
+    "Frame_url": "Images/7.png",
+    "RoadId": 22,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.436,
+    "Lng": 30.58755065,
+    "Lat": 30.56119912,
+    "CreatedAt": "2017-07-22",
+    "UpdatedAt": "2017-07-04",
+    "Frame_url": "Images/11.png",
+    "RoadId": 19,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.3869,
+    "Lng": 30.1504387,
+    "Lat": 30.69710767,
+    "CreatedAt": "2017-03-08",
+    "UpdatedAt": "2017-07-27",
+    "Frame_url": "Images/1.png",
+    "RoadId": 15,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.0226,
+    "Lng": 30.19065419,
+    "Lat": 30.36174254,
+    "CreatedAt": "2017-08-09",
+    "UpdatedAt": "2017-03-05",
+    "Frame_url": "Images/17.png",
+    "RoadId": 2,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.2593,
+    "Lng": 30.00389731,
+    "Lat": 30.76735324,
+    "CreatedAt": "2017-06-26",
+    "UpdatedAt": "2017-01-06",
+    "Frame_url": "Images/12.png",
+    "RoadId": 17,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.8331,
+    "Lng": 30.10158272,
+    "Lat": 30.42496987,
+    "CreatedAt": "2017-03-16",
+    "UpdatedAt": "2017-08-12",
+    "Frame_url": "Images/5.png",
+    "RoadId": 11,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.679,
+    "Lng": 30.38179739,
+    "Lat": 30.44641825,
+    "CreatedAt": "2017-02-10",
+    "UpdatedAt": "2017-08-14",
+    "Frame_url": "Images/16.png",
+    "RoadId": 24,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.2362,
+    "Lng": 30.13869243,
+    "Lat": 30.51399167,
+    "CreatedAt": "2017-05-30",
+    "UpdatedAt": "2017-01-21",
+    "Frame_url": "Images/18.png",
+    "RoadId": 15,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.1014,
+    "Lng": 30.44938601,
+    "Lat": 30.05193071,
+    "CreatedAt": "2017-02-28",
+    "UpdatedAt": "2017-04-09",
+    "Frame_url": "Images/6.png",
+    "RoadId": 14,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.6855,
+    "Lng": 30.44721805,
+    "Lat": 30.90815189,
+    "CreatedAt": "2017-04-25",
+    "UpdatedAt": "2017-08-22",
+    "Frame_url": "Images/12.png",
+    "RoadId": 6,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.8933,
+    "Lng": 30.56919361,
+    "Lat": 30.30545297,
+    "CreatedAt": "2017-05-22",
+    "UpdatedAt": "2017-07-20",
+    "Frame_url": "Images/15.png",
+    "RoadId": 24,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.9866,
+    "Lng": 30.39162645,
+    "Lat": 30.50248028,
+    "CreatedAt": "2017-07-19",
+    "UpdatedAt": "2017-01-28",
+    "Frame_url": "Images/9.png",
+    "RoadId": 23,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.5308,
+    "Lng": 30.44545294,
+    "Lat": 30.93681182,
+    "CreatedAt": "2017-04-18",
+    "UpdatedAt": "2017-01-24",
+    "Frame_url": "Images/7.png",
+    "RoadId": 8,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.5535,
+    "Lng": 30.41828263,
+    "Lat": 30.62709931,
+    "CreatedAt": "2017-06-21",
+    "UpdatedAt": "2017-08-12",
+    "Frame_url": "Images/13.png",
+    "RoadId": 13,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.1113,
+    "Lng": 30.38197143,
+    "Lat": 30.39750208,
+    "CreatedAt": "2017-01-02",
+    "UpdatedAt": "2017-04-15",
+    "Frame_url": "Images/9.png",
+    "RoadId": 3,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.35,
+    "Lng": 30.15461867,
+    "Lat": 30.58808755,
+    "CreatedAt": "2017-08-20",
+    "UpdatedAt": "2017-08-09",
+    "Frame_url": "Images/6.png",
+    "RoadId": 13,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.5351,
+    "Lng": 30.3653417,
+    "Lat": 30.57337681,
+    "CreatedAt": "2017-04-23",
+    "UpdatedAt": "2017-01-24",
+    "Frame_url": "Images/8.png",
+    "RoadId": 4,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.993,
+    "Lng": 30.95729549,
+    "Lat": 30.80144117,
+    "CreatedAt": "2017-04-05",
+    "UpdatedAt": "2017-08-30",
+    "Frame_url": "Images/18.png",
+    "RoadId": 19,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.0751,
+    "Lng": 30.49007772,
+    "Lat": 30.22758869,
+    "CreatedAt": "2017-07-26",
+    "UpdatedAt": "2017-02-27",
+    "Frame_url": "Images/9.png",
+    "RoadId": 21,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.2521,
+    "Lng": 30.29764691,
+    "Lat": 30.99952102,
+    "CreatedAt": "2017-04-15",
+    "UpdatedAt": "2017-02-17",
+    "Frame_url": "Images/14.png",
+    "RoadId": 15,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.3548,
+    "Lng": 30.78130649,
+    "Lat": 30.11645001,
+    "CreatedAt": "2017-08-08",
+    "UpdatedAt": "2017-03-19",
+    "Frame_url": "Images/12.png",
+    "RoadId": 27,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.8017,
+    "Lng": 30.88048642,
+    "Lat": 30.7106833,
+    "CreatedAt": "2017-03-31",
+    "UpdatedAt": "2017-02-02",
+    "Frame_url": "Images/3.png",
+    "RoadId": 10,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.0553,
+    "Lng": 30.20730088,
+    "Lat": 30.46983341,
+    "CreatedAt": "2017-06-09",
+    "UpdatedAt": "2017-03-28",
+    "Frame_url": "Images/15.png",
+    "RoadId": 17,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.3278,
+    "Lng": 30.00608222,
+    "Lat": 30.04951398,
+    "CreatedAt": "2017-02-06",
+    "UpdatedAt": "2017-05-28",
+    "Frame_url": "Images/15.png",
+    "RoadId": 24,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.5443,
+    "Lng": 30.20403798,
+    "Lat": 30.86905377,
+    "CreatedAt": "2017-03-11",
+    "UpdatedAt": "2017-06-05",
+    "Frame_url": "Images/2.png",
+    "RoadId": 8,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.9575,
+    "Lng": 30.56516564,
+    "Lat": 30.35226956,
+    "CreatedAt": "2017-03-09",
+    "UpdatedAt": "2017-05-26",
+    "Frame_url": "Images/12.png",
+    "RoadId": 21,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.1308,
+    "Lng": 30.75968346,
+    "Lat": 30.44024582,
+    "CreatedAt": "2017-02-21",
+    "UpdatedAt": "2017-05-30",
+    "Frame_url": "Images/17.png",
+    "RoadId": 24,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.2743,
+    "Lng": 30.50763646,
+    "Lat": 30.68206423,
+    "CreatedAt": "2017-03-16",
+    "UpdatedAt": "2017-08-24",
+    "Frame_url": "Images/1.png",
+    "RoadId": 26,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.995,
+    "Lng": 30.13391165,
+    "Lat": 30.06273803,
+    "CreatedAt": "2017-04-15",
+    "UpdatedAt": "2017-07-29",
+    "Frame_url": "Images/8.png",
+    "RoadId": 10,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.1071,
+    "Lng": 30.18970967,
+    "Lat": 30.75379431,
+    "CreatedAt": "2017-08-07",
+    "UpdatedAt": "2017-06-25",
+    "Frame_url": "Images/13.png",
+    "RoadId": 20,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.4877,
+    "Lng": 30.27685637,
+    "Lat": 30.61438008,
+    "CreatedAt": "2017-05-10",
+    "UpdatedAt": "2017-06-10",
+    "Frame_url": "Images/18.png",
+    "RoadId": 15,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.7973,
+    "Lng": 30.6224252,
+    "Lat": 30.80928941,
+    "CreatedAt": "2017-08-14",
+    "UpdatedAt": "2017-04-05",
+    "Frame_url": "Images/11.png",
+    "RoadId": 12,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.4858,
+    "Lng": 30.73965514,
+    "Lat": 30.74674195,
+    "CreatedAt": "2017-07-30",
+    "UpdatedAt": "2017-01-30",
+    "Frame_url": "Images/11.png",
+    "RoadId": 23,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.7501,
+    "Lng": 30.1584205,
+    "Lat": 30.1063069,
+    "CreatedAt": "2017-01-21",
+    "UpdatedAt": "2017-01-11",
+    "Frame_url": "Images/7.png",
+    "RoadId": 26,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.7105,
+    "Lng": 30.75144939,
+    "Lat": 30.93637748,
+    "CreatedAt": "2017-08-19",
+    "UpdatedAt": "2017-03-03",
+    "Frame_url": "Images/8.png",
+    "RoadId": 17,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.3426,
+    "Lng": 30.6468108,
+    "Lat": 30.0395261,
+    "CreatedAt": "2017-03-03",
+    "UpdatedAt": "2017-07-04",
+    "Frame_url": "Images/18.png",
+    "RoadId": 1,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.8276,
+    "Lng": 30.39696133,
+    "Lat": 30.54351512,
+    "CreatedAt": "2017-08-15",
+    "UpdatedAt": "2017-08-08",
+    "Frame_url": "Images/20.png",
+    "RoadId": 17,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.3947,
+    "Lng": 30.44997445,
+    "Lat": 30.20088531,
+    "CreatedAt": "2017-08-04",
+    "UpdatedAt": "2017-04-21",
+    "Frame_url": "Images/19.png",
+    "RoadId": 1,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.6893,
+    "Lng": 30.12471324,
+    "Lat": 30.95233481,
+    "CreatedAt": "2017-03-08",
+    "UpdatedAt": "2017-08-11",
+    "Frame_url": "Images/2.png",
+    "RoadId": 9,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.5532,
+    "Lng": 30.22333603,
+    "Lat": 30.12653775,
+    "CreatedAt": "2017-01-27",
+    "UpdatedAt": "2017-07-15",
+    "Frame_url": "Images/3.png",
+    "RoadId": 7,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.4909,
+    "Lng": 30.95796868,
+    "Lat": 30.00623733,
+    "CreatedAt": "2017-07-21",
+    "UpdatedAt": "2017-08-10",
+    "Frame_url": "Images/16.png",
+    "RoadId": 12,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.2338,
+    "Lng": 30.06705509,
+    "Lat": 30.19180633,
+    "CreatedAt": "2017-06-08",
+    "UpdatedAt": "2017-04-18",
+    "Frame_url": "Images/18.png",
+    "RoadId": 5,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.5459,
+    "Lng": 30.39294748,
+    "Lat": 30.73082833,
+    "CreatedAt": "2017-08-04",
+    "UpdatedAt": "2017-05-13",
+    "Frame_url": "Images/7.png",
+    "RoadId": 6,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.1774,
+    "Lng": 30.580737,
+    "Lat": 30.9051743,
+    "CreatedAt": "2017-06-27",
+    "UpdatedAt": "2017-02-15",
+    "Frame_url": "Images/4.png",
+    "RoadId": 3,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.6989,
+    "Lng": 30.44398398,
+    "Lat": 30.3727016,
+    "CreatedAt": "2017-07-18",
+    "UpdatedAt": "2017-03-17",
+    "Frame_url": "Images/18.png",
+    "RoadId": 3,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.7321,
+    "Lng": 30.04016649,
+    "Lat": 30.17984111,
+    "CreatedAt": "2017-01-03",
+    "UpdatedAt": "2017-04-10",
+    "Frame_url": "Images/1.png",
+    "RoadId": 3,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.5303,
+    "Lng": 30.65496279,
+    "Lat": 30.78975987,
+    "CreatedAt": "2017-03-03",
+    "UpdatedAt": "2017-01-26",
+    "Frame_url": "Images/2.png",
+    "RoadId": 14,
+    "Type": "Pothole"
+  },
+  {
+    "Confidence": 0.8282,
+    "Lng": 30.45687135,
+    "Lat": 30.84667724,
+    "CreatedAt": "2017-05-27",
+    "UpdatedAt": "2017-05-26",
+    "Frame_url": "Images/18.png",
+    "RoadId": 15,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.4387,
+    "Lng": 30.41657444,
+    "Lat": 30.31548539,
+    "CreatedAt": "2017-04-03",
+    "UpdatedAt": "2017-05-13",
+    "Frame_url": "Images/9.png",
+    "RoadId": 5,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.8528,
+    "Lng": 30.21285443,
+    "Lat": 30.81774333,
+    "CreatedAt": "2017-04-12",
+    "UpdatedAt": "2017-03-28",
+    "Frame_url": "Images/9.png",
+    "RoadId": 6,
+    "Type": "Bump"
+  },
+  {
+    "Confidence": 0.4042,
+    "Lng": 30.04779614,
+    "Lat": 30.7446507,
+    "CreatedAt": "2017-04-07",
+    "UpdatedAt": "2017-03-26",
+    "Frame_url": "Images/17.png",
+    "RoadId": 21,
+    "Type": "Manhole"
+  },
+  {
+    "Confidence": 0.3808,
+    "Lng": 30.31721016,
+    "Lat": 30.55034086,
+    "CreatedAt": "2017-07-27",
+    "UpdatedAt": "2017-04-27",
+    "Frame_url": "Images/16.png",
+    "RoadId": 19,
+    "Type": "Rumble Strip"
+  },
+  {
+    "Confidence": 0.9443,
+    "Lng": 30.33133308,
+    "Lat": 30.91264514,
+    "CreatedAt": "2017-08-11",
+    "UpdatedAt": "2017-02-16",
+    "Frame_url": "Images/7.png",
+    "RoadId": 22,
+    "Type": "Rumble Strip"
+  }
+]

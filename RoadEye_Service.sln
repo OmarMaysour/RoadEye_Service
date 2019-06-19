@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoadEye_Service", "RoadEye_Service.csproj", "{F4808939-2ED8-4833-8974-EF7F88615220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4808939-2ED8-4833-8974-EF7F88615220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4808939-2ED8-4833-8974-EF7F88615220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4808939-2ED8-4833-8974-EF7F88615220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4808939-2ED8-4833-8974-EF7F88615220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECB0EDC-CD82-4990-8789-A4AA1101B310}
+	EndGlobalSection
+EndGlobal
